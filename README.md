@@ -30,8 +30,7 @@ Script - où vit votre JavaScript ;
 Template - où vit votre HTML ;
 Style - où vit votre CSS.
 
-```
-// ./components/HomeLink.vue
+```vue.js
 <script>
 export default {
 	name: 'HomeLink'
